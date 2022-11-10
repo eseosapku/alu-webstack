@@ -2,6 +2,4 @@
 #this script will display information about subdomains.
 
 echo The subdomain www is a A record and points to 54.210.47.110
-echo The subdomain lb-01 is a A record and points to 54.210.47.110
-echo The subdomain web-01 is a A record and points to 34.198.248.145
-echo The subdomain web-02 is a A record and points to 54.89.38.100
+
